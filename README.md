@@ -28,10 +28,10 @@ English | [中文](README.zh.md)
 The plugin keeps the native DSH experience around the enhanced controls: Workspace selection, new Session creation, search, rename, fork, archive, localization, and the compact sidebar rail continue to work in the same place. Installation uses the official Web profile mechanism and does not require modifying DSH source code.
 
 <p align="center">
-  <img src="docs/session-workbench.jpg" alt="dsh-session-workbench showing grouped Sessions in the DSH sidebar" width="280">
+  <img src="docs/session-workbench.gif" alt="Animated dsh-session-workbench walkthrough showing grouped and flat views, search, drag ordering, export, and deletion controls" width="480">
 </p>
 
-<p align="center"><sub>The workbench owns the Workspaces region. Other entries visible above it are separate plugins in the local DSH profile.</sub></p>
+<p align="center"><sub>Recorded from a live DSH Web session. The workbench owns the Workspaces region; other entries above it are separate plugins in the local profile.</sub></p>
 
 ## Capability overview
 

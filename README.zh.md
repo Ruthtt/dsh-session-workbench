@@ -28,10 +28,10 @@
 插件在增强管理能力的同时保留 DSH 原有体验：工作区选择、新建会话、搜索、重命名、分叉、归档、中英文界面和紧凑侧栏模式仍在原来的位置工作。安装完全使用官方 Web Profile 机制，无需修改 DSH 源码。
 
 <p align="center">
-  <img src="docs/session-workbench.jpg" alt="dsh-session-workbench 在 DSH 侧栏中显示分组会话" width="280">
+  <img src="docs/session-workbench.gif" alt="dsh-session-workbench 动态演示工作区分组、单列表、搜索、拖动排序、导出和删除操作" width="480">
 </p>
 
-<p align="center"><sub>本插件只接管“工作区”区域；截图上方的其他侧栏入口来自本地 DSH Profile 中的独立插件。</sub></p>
+<p align="center"><sub>动图录制自真实 DSH Web 会话。本插件只接管“工作区”区域；上方其他侧栏入口来自本地 Profile 中的独立插件。</sub></p>
 
 ## 能力概览
 
