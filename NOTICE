@@ -1,0 +1,7 @@
+This project includes code derived from the DeepSeek Harness workspace UI
+package, originally distributed under the MIT License:
+
+https://github.com/deepseek-ai/DeepSeek-Harness
+
+The replacement sidebar preserves the upstream workspace browsing behavior
+while adding session drag-and-drop, export, and permanent deletion controls.

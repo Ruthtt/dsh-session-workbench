@@ -1,0 +1,8 @@
+# Replace the stock workspace browser. The sidebar.workspaces slot is single-owner,
+# so the original row must be disabled before this bundle registers its client half.
+- id: ui-workspace
+  disabled: true
+
+- insert:
+    - id: ui-session-workbench
+      name: dsh-session-workbench
