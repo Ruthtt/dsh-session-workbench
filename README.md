@@ -43,18 +43,16 @@ The drag payload contains only a version and Session identity. Titles, history, 
 
 ## Development
 
+Clone this repository, then run the development checks:
+
 ```sh
+git clone https://github.com/Ruthtt/dsh-session-workbench.git
+cd dsh-session-workbench
 pnpm install
 pnpm typecheck
 pnpm test
 pnpm build
 pnpm pack:check
-```
-
-Install a local checkout for integration testing:
-
-```sh
-dsh plugin --profile web add link:/absolute/path/to/dsh-session-workbench
 ```
 
 ## Provenance
