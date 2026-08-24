@@ -43,18 +43,16 @@ Session 导出使用标准 `/api/session.export` 路由。拖到输入框复制�
 
 ## 开发
 
+先克隆本仓库，再运行开发检查：
+
 ```sh
+git clone https://github.com/Ruthtt/dsh-session-workbench.git
+cd dsh-session-workbench
 pnpm install
 pnpm typecheck
 pnpm test
 pnpm build
 pnpm pack:check
-```
-
-安装本地 checkout 进行集成测试：
-
-```sh
-dsh plugin --profile web add link:/absolute/path/to/dsh-session-workbench
 ```
 
 ## 来源
